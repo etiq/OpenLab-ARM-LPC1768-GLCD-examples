@@ -1,0 +1,36 @@
+Dependencies for Project 'GLCD', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x559CF5C2)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 523"--list .\listings\startup_lpc17xx.lst --xref -o .\objects\startup_lpc17xx.o --depend .\objects\startup_lpc17xx.d)
+F (.\main.c)(0x598839FD)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="523"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x559CF6CA)
+I (C:\Keil_v5\ARM\RV31\INC\core_cm3.h)(0x4BD063B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F629E0)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x592FB205)
+I (KS0108.h)(0x59882D88)
+I (graphic.h)(0x58BF9E20)
+I (delay.h)(0x592D45D3)
+I (bitmap.h)(0x592D7A5C)
+F (.\KS0108.c)(0x59882E24)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="523"-o .\objects\ks0108.o --omf_browse .\objects\ks0108.crf --depend .\objects\ks0108.d)
+I (KS0108.h)(0x59882D88)
+I (font5x8.h)(0x5926DDB8)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x559CF6CA)
+I (C:\Keil_v5\ARM\RV31\INC\core_cm3.h)(0x4BD063B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F629E0)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x592FB205)
+F (.\KS0108.h)(0x59882D88)()
+F (.\font5x8.h)(0x5926DDB8)()
+F (.\KS0108_LPC1768.c)(0x59882E24)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="523"-o .\objects\ks0108_lpc1768.o --omf_browse .\objects\ks0108_lpc1768.crf --depend .\objects\ks0108_lpc1768.d)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x559CF6CA)
+I (C:\Keil_v5\ARM\RV31\INC\core_cm3.h)(0x4BD063B2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F629E0)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x592FB205)
+F (C:\Keil_v5\ARM\Startup\NXP\LPC17xx\system_LPC17xx.c)(0x592FB205)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="523"-o .\objects\system_lpc17xx.o --omf_browse .\objects\system_lpc17xx.crf --depend .\objects\system_lpc17xx.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F629E0)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x559CF6CA)
+I (C:\Keil_v5\ARM\RV31\INC\core_cm3.h)(0x4BD063B2)
+I (C:\Keil_v5\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x592FB205)
+F (.\graphic.c)(0x592D66ED)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="523"-o .\objects\graphic.o --omf_browse .\objects\graphic.crf --depend .\objects\graphic.d)
+F (.\graphic.h)(0x58BF9E20)()
+F (.\delay.c)(0x592E55E3)(--c99 -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="523"-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (delay.h)(0x592D45D3)
+F (.\delay.h)(0x592D45D3)()
+F (.\bitmap.h)(0x592D7A5C)()
